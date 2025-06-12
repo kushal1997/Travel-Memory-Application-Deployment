@@ -130,15 +130,79 @@ npm run build
   <img src="./deployment-screenshots/vpc-overview.png" alt="vpc overview" width="800"/>
 </p>
 
-### 2. EC2 instances in 4 subnets
+### 2. ACM Certificates
+<p align="center">
+  <img src="./deployment-screenshots/acm-certificates.png" alt="vpc overview" width="800"/>
+</p>
+
+### 3. EC2 instances in 4 subnets
 <p align="center">
   <img src="./deployment-screenshots/ec2-list.png" alt="vpc overview" width="800"/>
 </p>
 
-### 3. Load Balancer configs
+### 4. AMI Page with status - Available
+<p align="center">
+  <img src="./deployment-screenshots/ami-page.png" alt="AMI Page" width="800"/>
+</p>
+
+### 5. Load Balancer configs
 - **Frontend LB:**
  <p align="center">
-  <img src="./deployment-screenshots/frontend-lb-configs.png" alt="vpc overview" width="800"/>
+  <img src="./deployment-screenshots/frontend-lb-configs.png" alt="Frontend LB" width="800"/>
+</p>
+
+- **Backend LB:**
+ <p align="center">
+  <img src="./deployment-screenshots/backend-lb-configs.png" alt="Backend LB" width="800"/>
+</p>
+
+### 6. Target Group Health Check
+- **Frontend TG:**
+ <p align="center">
+  <img src="./deployment-screenshots/frontend-tg.png" alt="Frontend TG" width="800"/>
+</p>
+
+- **Backend TG:**
+ <p align="center">
+  <img src="./deployment-screenshots/backend-tg.png" alt="Backend TG" width="800"/>
+</p>
+
+### 7. Cloudflare
+- **DNS Setup:**
+<p align="center">
+  <img src="./deployment-screenshots/dns-setup.png" alt=" Cloudflare DNS Setup" width="800"/>
+</p>
+
+- **SSL Mode:**
+<p align="center">
+  <img src="./deployment-screenshots/ssl-mode.png" alt=" Cloudflare SSL Mode" width="800"/>
+</p>
+
+### 8. Backend pm2 Logs
+<p align="center">
+  <img src="./deployment-screenshots/pm2-logs.png" alt=" Backend pm2 Logs" width="800"/>
+</p>
+
+### 9. Postman API results
+- **For `/hello` api:**
+<p align="center">
+  <img src="./deployment-screenshots/hello-api.png" alt=" Postman API results /hello api" width="800"/>
+</p>
+
+- **For `/trip` api:**
+<p align="center">
+  <img src="./deployment-screenshots/trip-api.png" alt=" Postman API results /trip api" width="800"/>
+</p>
+
+### 10. Frontend React Aoo Loading
+- **Under testng mode with `http`:**
+<p align="center">
+  <img src="./deployment-screenshots/react-app-http.png" alt=" testing mode with http" width="800"/>
+</p>
+
+- **After SSL mode with `https`:**
+<p align="center">
+  <img src="./deployment-screenshots/react-app-https.png" alt=" Dev mode with https" width="800"/>
 </p>
 ---
 
