@@ -125,8 +125,21 @@ npm run build
 ---
 
 ## 📸 Screenshots
+### 1. VPC, Subnets, Route Tables
+<p align="center">
+  <img src="./deployment-screenshots/vpc-overview.png" alt="vpc overview" width="800"/>
+</p>
 
+### 2. EC2 instances in 4 subnets
+<p align="center">
+  <img src="./deployment-screenshots/ec2-list.png" alt="vpc overview" width="800"/>
+</p>
 
+### 3. Load Balancer configs
+- **Frontend LB:**
+ <p align="center">
+  <img src="./deployment-screenshots/frontend-lb-configs.png" alt="vpc overview" width="800"/>
+</p>
 ---
 
 ## ✅ Outcome
