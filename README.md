@@ -52,7 +52,7 @@ PORT=3000
 
 # Install dependencies and start server
 npm install
-pm2 start server.js
+pm2 start index.js
 ```
 <br>
 
