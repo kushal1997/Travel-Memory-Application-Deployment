@@ -186,7 +186,7 @@ npm run build
 ### 9. Postman API results
 - **For `/hello` api:**
 <p align="center">
-  <img src="./deployment-screenshots/hello-api.png" alt=" Postman API results /hello api" width="800"/>
+  <img src="./deployment-screenshots/hello-api.png" alt=" Postman API results /hello api" width="600"/>
 </p>
 
 - **For `/trip` api:**
@@ -194,7 +194,7 @@ npm run build
   <img src="./deployment-screenshots/trip-api.png" alt=" Postman API results /trip api" width="800"/>
 </p>
 
-### 10. Frontend React Aoo Loading
+### 10. Frontend React App Loading
 - **Under testng mode with `http`:**
 <p align="center">
   <img src="./deployment-screenshots/react-app-http.png" alt=" testing mode with http" width="800"/>
@@ -204,6 +204,7 @@ npm run build
 <p align="center">
   <img src="./deployment-screenshots/react-app-https.png" alt=" Dev mode with https" width="800"/>
 </p>
+
 ---
 
 ## ✅ Outcome
