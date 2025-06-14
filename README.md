@@ -26,11 +26,12 @@ To deploy the full-stack TravelMemory application using AWS services with the fo
 
 ---
 
-## 🧱 Architecture Diagram
-
+## 🧱 Architecture Diagram [🔗](https://drive.google.com/file/d/119Xi3Aa_DrWa34eRO1Daqwvs8O4GbCrV/view?usp=sharing)
 <p align="center">
-  <img src="./deployment-screenshots/TM-Architecture.drawio.png" alt="Architecture Diagram" width="800"/>
-</p>
+  <a  href="https://drive.google.com/file/d/119Xi3Aa_DrWa34eRO1Daqwvs8O4GbCrV/view?usp=sharing" target="_blanck">
+    <img src="./deployment-screenshots/TM-Architecture.drawio.png" alt="Architecture Diagram" width="800"/>
+  </a>
+ </p>
 
 ---
 
